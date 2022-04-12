@@ -33,4 +33,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peleg11)
+- Frontend Mentor - [@peleg11](https://www.frontendmentor.io/profile/peleg11)
